@@ -2,6 +2,8 @@
 [//]: # "THIS DOCUMENTATION IS BEST VIEWED ONLINE AT https://github.com/meniku/NPBehave"
 [//]: # "******************************************************************************"
 
+** Note: ** this repo has been forked and modified to allow it to be installed as a package via git url
+
 # NPBehave - An event driven Behavior Tree Library for code based AIs in Unity
 
 ![NPBehave Logo](http://labs.nkuebler.de/npbehave/images/np-behave.png)
